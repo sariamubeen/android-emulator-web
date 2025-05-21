@@ -27,7 +27,7 @@ This repository provides a clean and efficient way to run an Android emulator on
 
 ### 1. Clone This Repository
 ```bash
-git clone https://github.com/your-username/android-emulator-web.git
+git clone https://github.com/sariamubeen/android-emulator-web.git
 cd android-emulator-web
 ```
 
